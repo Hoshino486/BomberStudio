@@ -1,4 +1,4 @@
-# BomberStudio
+<img width="686" height="493" alt="bomberstudio-export-options" src="https://github.com/user-attachments/assets/8a3d441d-e880-4e60-a85b-ac76e45db168" /><img width="521" height="351" alt="bomberstudio-game-selector" src="https://github.com/user-attachments/assets/83301dfe-d6d1-4e32-ab34-116858f2be94" /># BomberStudio
 
 ### Unity 游戏资源浏览、预览与导出工具
 
@@ -64,7 +64,10 @@ BomberStudio 是一个面向 Windows 的桌面工具，用来打开 Unity 游戏
 
 | 游戏选择 | `FBX` 导出 | 模拟器资源提取 |
 | --- | --- | --- |
-| ![游戏选择](docs/assets/bomberstudio-game-selector.png) | ![导出设置](docs/assets/bomberstudio-export-options.png) | ![模拟器资源提取](docs/assets/bomberstudio-mumu-extractor.png) |
+| ![游戏选择](<img width="521" height="351" alt="bomberstudio-game-selector" src="https://github.com/user-attachments/assets/dc9f94cf-e7eb-4239-a759-34f385e02914" />
+) | ![导出设置](<img width="686" height="493" alt="bomberstudio-export-options" src="https://github.com/user-attachments/assets/1fcd53f6-848d-4dc7-8d92-942e5e070404" />
+) | ![模拟器资源提取](<img width="746" height="583" alt="bomberstudio-mumu-extractor" src="https://github.com/user-attachments/assets/be21e9ee-0895-41b2-91dc-4d2d9d628750" />
+) |
 
 
 
