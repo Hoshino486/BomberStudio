@@ -2,7 +2,7 @@
 
 ### Unity 游戏资源浏览、预览与导出工具
 
-![BomberStudio 导出设置](docs/assets/bomberstudio-export-options.png)
+![BomberStudio 导出设置](./docs/assets/bomberstudio-export-options.png)
 
 BomberStudio 是一个面向 Windows 的桌面工具，用来打开 Unity 游戏资源和各种专用容器。你可以在同一个界面里浏览资源、预览内容、建立索引，并把需要的文件导出到本地。
 
@@ -64,7 +64,7 @@ BomberStudio 是一个面向 Windows 的桌面工具，用来打开 Unity 游戏
 
 | 游戏选择 | `FBX` 导出 | 模拟器资源提取 |
 | --- | --- | --- |
-| ![游戏选择](docs/assets/bomberstudio-game-selector.png) | ![导出设置](docs/assets/bomberstudio-export-options.png) | ![模拟器资源提取](docs/assets/bomberstudio-mumu-extractor.png) |
+| ![游戏选择](./docs/assets/bomberstudio-game-selector.png) | ![导出设置](./docs/assets/bomberstudio-export-options.png) | ![模拟器资源提取](./docs/assets/bomberstudio-mumu-extractor.png) |
 
 
 
