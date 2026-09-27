@@ -70,4 +70,5 @@ BomberStudio 是一个面向 Windows 的桌面工具，用来打开 Unity 游戏
 
 ## 反馈
 工具交流反馈群[517046892](https://qm.qq.com/q/OtfUHePe8O)
+
 如果软件无法正常工作，欢迎在[问题页面](https://github.com/Hoshino486/Unpackaging-tool/issues)提交日志和可复现的小样本，反馈的时候最好有截图，软件截图，解包的文件截图，模型id等，越详细修的越快，并带上日志发我。
