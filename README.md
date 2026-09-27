@@ -44,7 +44,7 @@ BomberStudio 是一个面向 Windows 的桌面工具，用来打开 Unity 游戏
 
 ## 下载
 
-可以从[发布页](https://github.com/Hoshino486/Unpackaging-tool/releases)获取最新安装包，当前版本为 `1.1.4`。
+可以从[发布页](https://github.com/Hoshino486/Unpackaging-tool/releases)获取最新安装包，当前版本为 `1.1.6`。
 
 正式安装包面向 Windows x64，需要安装 **.NET 10 桌面运行时**。
 
